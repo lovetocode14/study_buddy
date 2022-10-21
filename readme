@@ -1,0 +1,4 @@
+Just download and open with Visual Studio. 
+
+If there is a build failure with Form1.resx, you have to find that file in Windows Explorer and Right Click > Properties, Unblock at the bottom. 
+  Its just a security thing because it came from internet download. 
