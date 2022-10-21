@@ -1,0 +1,12 @@
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\bin\Debug\StudyBuddy.exe.config
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\bin\Debug\StudyBuddy.exe
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\bin\Debug\StudyBuddy.pdb
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.Form1.resources
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.Properties.Resources.resources
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.csproj.GenerateResource.cache
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.csproj.CoreCompileInputs.cache
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.csproj.CopyComplete
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.exe
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.pdb
+C:\Users\canad\source\repos\StudyBuddy\StudyBuddy\obj\Debug\StudyBuddy.csproj.AssemblyReference.cache
